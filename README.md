@@ -1,5 +1,5 @@
 # SQLitePractice-Android
-SQL Lite Practice inclass6 <br>
+SQLite Practice inclass6 <br>
 Create a simple SQLLite application to keep track of banking accounts.  <br> 
 These accounts have three characteristics: <br>
 • ID – Identifies the account <br>
